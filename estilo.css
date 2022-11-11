@@ -1,3 +1,7 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
 ::-webkit-scrollbar {background: #000000;border-radius: 10px;} /* barra de rolagem toda */
             ::-webkit-scrollbar-thumb {background: dodgerblue;border-radius: 140px;} /* parte da barra que se movimenta */
             ::-webkit-scrollbar-button {background:black;border-radius: 10px;} /* ponta da barra de rolagem */
